@@ -1,0 +1,12 @@
+2023 Toyota Sienna-4.7-36-medium-7-70-van-van
+2023 Honda Odyssey-4.6-22-medium-7-70-van-van
+2023 Chrysler Pacifica-4.5-23-medium-7-70-van-van
+2023 Toyota Prius-4.8-48-medium-4-50-hybrid-intermediate
+2022 Honda Accord Hybrid-4.7-47-medium-4-50-hybrid-intermediate
+2022 Hyundai Elantra-4.6-50-medium-4-50-sedan-intermediate
+2022 honda accord hybrid-4.7-47-medium-4-50-sedan-intermediate
+2023 Honda CR V Hybrid-4.8-40-good-5-55-Crossover-standard
+2023 kia telluride-4.8-23-good-5-55-suv-standard
+2023 Ford f150 regular cab-4.7-20-good-5-55-truck-standard
+2021 honda clarity plug in hybrid-4.7-110-poor-4-45-coupe-economy
+2023 toyota camry-4.6-32-poor-4-45-coupe-economy
